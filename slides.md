@@ -90,7 +90,7 @@ See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 ---
 layout: image-right
-image: https://i.imgur.com/VkkIDPo.png
+image: ./assets/images/window-title.png
 ---
 
 # Minimal informative window title
@@ -116,7 +116,7 @@ See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 ---
 layout: image-right
-image: https://i.imgur.com/qvaiAZp.png
+image: ./assets/images/syntax-highlighting.png
 ---
 
 
@@ -136,7 +136,7 @@ See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 ---
 layout: image-right
-image: https://i.imgur.com/KHlDuwD.png
+image: ./assets/images/autosuggestions.png
 ---
 
 # Suggestions based on history
