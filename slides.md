@@ -8,7 +8,7 @@
 lineNumbers: false
 # some information about the slides, markdown enabled
 info: |
-  ## Zsh configuration for improved DX
+  ## Zsh configuration for better DX
   Small zsh customizations for big productivity gains
 ---
 
@@ -18,7 +18,15 @@ info: |
   }
 </style>
 
-# Zsh configuration for <br> improved DX
+# Zsh configuration for <br> better DX
+
+Henry Bley-Vroman
+
+Aug 2021
+
+https://github.com/olets/zsh-configuration-for-better-dx
+
+https://zsh-configuration-for-better-dx.vercel.app/
 
 ---
 

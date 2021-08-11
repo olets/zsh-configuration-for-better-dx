@@ -1,11 +1,18 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Zsh configuration for better DX
 
-To start the slide show:
+- View slides online:
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+    https://zsh-configuration-for-better-dx.vercel.app/
 
-Edit the [slides.md](./slides.md) to see the changes.
+- View slides locally:
 
-Learn more about Slidev on [documentations](https://sli.dev/).
+    To start the slide show:
+
+    1. clone
+    1. `npm i`
+    1. `npm run dev`
+    1. visit http://localhost:3030
+
+- [Code snippets](./setup.md)
+
+Made with [Slidev](https://sli.dev/).
