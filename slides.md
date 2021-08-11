@@ -86,7 +86,7 @@ Live (😬) demo
 
 ## How?
 
-See gist
+See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 ---
 layout: image-right
@@ -111,7 +111,7 @@ or
 
 ## How?
 
-See gist.
+See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 
 ---
@@ -131,7 +131,7 @@ correctly spelled commands will be another.
 
 ## How?
 
-See gist
+See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 
 ---
@@ -151,7 +151,7 @@ Press the right arrow to accept a suggestion.
 
 ## How?
 
-See gist
+See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 ---
 
@@ -171,7 +171,7 @@ Live (😬) example
 
 ## How?
 
-See gist
+See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
 
 ---
 
@@ -193,4 +193,4 @@ Live (😬) example
 
 ## How?
 
-See gist
+See https://github.com/olets/zsh-configuration-for-better-dx/blob/main/setup.md
